@@ -10,6 +10,10 @@ Weekly Jupyter notebooks for the DX799 Data Science Capstone. This project focus
 - [Week 4: Logistic Regression and Feature Scaling](Wk4-JupyterNotebook-Guidinetti.ipynb)
 - [Week 5: Support Vector Machines](Wk5-JupyterNotebook-Guidinetti.ipynb)
 - [Week 6: Decision Trees and Random Forests](Wk6-JupyterNotebook-Guidinetti.ipynb)
+- [Week 8: K-Nearest Neighbors](Wk8-JupyterNotebook-Guidinetti.ipynb)
+- [Week 9: Gradient Boosting](Wk9-JupyterNotebook-Guidinetti.ipynb)
+- [Week 10: K-Means Clustering](Wk10-JupyterNotebook-Guidinetti.ipynb)
+- [Week 11: DBSCAN and Hierarchical Clustering](Wk11-JupyterNotebook-Guidinetti.ipynb)
 
 ## Data Sources
 
